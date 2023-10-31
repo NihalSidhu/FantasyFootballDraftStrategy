@@ -1,6 +1,5 @@
 # FantasyFootballDraftStrategy
 Using coding knowledge to create a fantasy football draft strategy
-# Name of Project
 
 ## Table of Contents
 
