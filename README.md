@@ -1,4 +1,5 @@
 # Leveraging Data Science to Create a Fantasy Football Draft Strategy
+This project dives into 
 
 ## Table of Contents
 
@@ -18,11 +19,11 @@
     4. Share any other tips or guidance for others attempting this or something similar.
  -->
 
-### Built With
+## Built With
 
 <!-- TODO: List any MAJOR libraries/frameworks (e.g. React, Tailwind) with links to their homepages. -->
 
-## Features
+## How To
 
 <!-- TODO: List what specific 'user problems' that this application solves. -->
 
