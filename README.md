@@ -1,5 +1,4 @@
-# FantasyFootballDraftStrategy
-Using coding knowledge to create a fantasy football draft strategy
+# Leveraging Data Science to Create a Fantasy Football Draft Strategy
 
 ## Table of Contents
 
@@ -8,6 +7,7 @@ Using coding knowledge to create a fantasy football draft strategy
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+- [Lessons Learned](#lessons-learned)
 
 ## Overview
 
@@ -33,3 +33,5 @@ Using coding knowledge to create a fantasy football draft strategy
 ## Acknowledgements
 
 <!-- TODO: List any blog posts, tutorials or plugins that you may have used to complete the project. Only list those that had a significant impact. Obviously, we all 'Google' stuff while working on our things, but maybe something in particular stood out as a 'major contributor' to your skill set for this project. -->
+
+## Lessons Learned
