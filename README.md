@@ -26,6 +26,7 @@ The final value over replacement rankings can be found here: [The Rankings](http
 
 ## Contact Me
 Email: [nihalsidhu1@gmail.com](nihalsidhu1@gmail.com])
+
 LinkedIn: [Nihal Sidhu](https://www.linkedin.com/in/nihal-sidhu/)
 
 ## Acknowledgements
