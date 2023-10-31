@@ -1,31 +1,29 @@
 # Leveraging Data Science to Create a Fantasy Football Draft Strategy
-This project dives into 
-
 ## Table of Contents
 
 - [Overview](#overview)
-- [Built With](#built-with)
+- [Skills & Tools](#skills-&-tools)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 - [Lessons Learned](#lessons-learned)
 
 ## Overview
+Value over replacement is a fantasy football draft strategy created to help an owner draft players with the highest likelihood of being more valuable than the average starter. In this project, I look into how we can utilize 2023 NFL projections along with 2023 fantasy football average draft positions to help find the players are most valuable compared to the replacement (or average starter) for their respective position. This will allow an owner to follow a ranking system derived on how a player is valued amongst his counterparts. 
 
-<!-- TODO: Add a screenshot of the live project.
-    1. Link to a 'live demo.'
-    2. Describe your overall experience in a couple of sentences.
-    3. List a few specific technical things that you learned or improved on.
-    4. Share any other tips or guidance for others attempting this or something similar.
- -->
+In order to create this value over replacement strategy, I utilizing my programming experience along with data analysis and visualization libraries. By leveraging both the data and my skillset, I am able to present the value over replacement rankings that can be used in fantasy football drafts.
 
-## Built With
+## Skills & Tools
 
-<!-- TODO: List any MAJOR libraries/frameworks (e.g. React, Tailwind) with links to their homepages. -->
+- Python
+    - Libraries: Pandas & Seaborn
+- Data Cleaning
+- Data Modeling
+- Model Development
 
 ## How To
 
-<!-- TODO: List what specific 'user problems' that this application solves. -->
+
 
 ## Contact
 
@@ -34,5 +32,3 @@ This project dives into
 ## Acknowledgements
 
 <!-- TODO: List any blog posts, tutorials or plugins that you may have used to complete the project. Only list those that had a significant impact. Obviously, we all 'Google' stuff while working on our things, but maybe something in particular stood out as a 'major contributor' to your skill set for this project. -->
-
-## Lessons Learned
