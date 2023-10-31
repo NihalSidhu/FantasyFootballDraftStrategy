@@ -16,8 +16,8 @@ In order to create this value over replacement strategy, I utilizing my programm
 - Python
     - Libraries: Pandas & Seaborn
 - Data Cleaning
-- Data Modeling
 - Model Development
+- Model Analysis
 
 ## The Rankings
 The project and process of how the value over replacement rankings were developed can be found here: [The Project](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy/blob/main/UsingDataInFantasyFootball.ipynb).
