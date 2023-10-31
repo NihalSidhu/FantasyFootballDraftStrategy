@@ -3,7 +3,7 @@
 
 - [Overview](#overview)
 - [Skills & Tools](#skills-&-tools)
-- [Features](#features)
+- [The Rankings](#the-rankings)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 - [Lessons Learned](#lessons-learned)
@@ -21,9 +21,10 @@ In order to create this value over replacement strategy, I utilizing my programm
 - Data Modeling
 - Model Development
 
-## How To
+## The Rankings
+The project and process of how the value over replacement rankings were developed can be found here: [TheProject](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy/blob/main/UsingDataInFantasyFootball.ipynb)
 
-
+The final value over replacement rankings can be found here: [TheRankings](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy/blob/main/ValueOverReplacementRankings.csv)
 
 ## Contact
 
