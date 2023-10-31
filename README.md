@@ -20,9 +20,9 @@ In order to create this value over replacement strategy, I utilizing my programm
 - Model Development
 
 ## The Rankings
-The project and process of how the value over replacement rankings were developed can be found here: [The Project](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy/blob/main/UsingDataInFantasyFootball.ipynb)
+The project and process of how the value over replacement rankings were developed can be found here: [The Project](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy/blob/main/UsingDataInFantasyFootball.ipynb).
 
-The final value over replacement rankings can be found here: [The Rankings](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy/blob/main/ValueOverReplacementRankings.csv)
+The final value over replacement rankings can be found here: [The Rankings](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy/blob/main/ValueOverReplacementRankings.csv).
 
 ## Contact Me
 Email: [nihalsidhu1@gmail.com](nihalsidhu1@gmail.com])
@@ -31,5 +31,5 @@ LinkedIn: [Nihal Sidhu](https://www.linkedin.com/in/nihal-sidhu/)
 
 ## Acknowledgements
 A big thank you to both FantasyPros and Underdog Network for having their data accessible to the public.
-I was able to pull 2023 NFL projection data from the [Fantasy Pros Site](https://www.fantasypros.com/) and was able to get 2023 average draft position data from [Underdog Network](https://underdognetwork.com/football)
+I was able to pull 2023 NFL projection data from the [Fantasy Pros Site](https://www.fantasypros.com/) and was able to get 2023 average draft position data from [Underdog Network](https://underdognetwork.com/football).
 
