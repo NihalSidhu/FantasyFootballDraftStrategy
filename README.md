@@ -8,9 +8,9 @@
 - [Acknowledgements](#Acknowledgements)
 
 ## Overview
-Value over replacement is a fantasy football draft strategy created to help an owner draft players with the highest likelihood of being more valuable than the average starter. In this project, I look into how we can utilize 2023 NFL projections along with 2023 fantasy football average draft positions to help find the players are most valuable compared to the replacement (or average starter) for their respective position. This will allow an owner to follow a ranking system derived on how a player is valued amongst his counterparts. 
+Value over replacement is a fantasy football draft strategy created to help an owner draft players based on who has the highest value compared to the average player. In this project, I utilize 2023 NFL projections along with 2023 fantasy football average draft positions to help find the players who are most valuable compared to the replacement (or average starter) in their respective position. The VOR draft strategy will allow an owner to follow a ranking system that can maximize their point total for their fantasy football team.
 
-In order to create this value over replacement strategy, I am utilizing my programming experience along with data analysis and visualization libraries. By leveraging both the data and my skillset, I am able to present the value over replacement rankings that can be used in fantasy football drafts.
+I designed and implemented the VOR draft strategy by leveraging my data analytics background, visualization techniques and programming experience. 
 
 ## Skills & Tools
 - Python
