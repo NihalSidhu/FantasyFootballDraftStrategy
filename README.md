@@ -25,7 +25,7 @@ The project and process of how the value over replacement rankings were develope
 The final value over replacement rankings can be found here: [The Rankings](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy/blob/main/ValueOverReplacementRankings.csv).
 
 ## Contact Me
-Email: [nihalsidhu1@gmail.com](nihalsidhu1@gmail.com])
+Email: [nihalsidhu1@gmail.com](mailto:nihalsidhu1@gmail.com])
 
 LinkedIn: [Nihal Sidhu](https://www.linkedin.com/in/nihal-sidhu/)
 
