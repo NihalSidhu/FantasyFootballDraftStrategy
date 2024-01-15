@@ -19,6 +19,10 @@ I designed and implemented the VOR draft strategy by utilizing my programming ex
 - Data Analysis
 - Model Development
 
+## Sneak Peak
+![image](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy/assets/111151666/6c79e068-c4be-4529-bd98-34ad0587f6b4)
+This boxplot showcases how players' projections can be mapped across their own positions.
+
 ## The Rankings
 The project and process of how the value over replacement rankings were developed can be found here: [The Project](https://github.com/NihalSidhu/Value-Over-Replacement-FF-Strategy/blob/main/UsingDataInFantasyFootball.ipynb).
 
